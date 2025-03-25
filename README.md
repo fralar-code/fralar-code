@@ -9,7 +9,7 @@ My **Master's thesis** focused on **adversarial machine learning**, specifically
 
 ## 🔧 Tech Skills  
 - **Languages**: Python, Java, C, C++, MATLAB 
-- **Web Development**: HTML, Bootstrap, jQuery, Java Server Pages (JSP)  
+- **Web Development**: HTML, Bootstrap, Java Server Pages (JSP)  
 - **Machine Learning & AI**: PyTorch, SciPy, Pandas  
 - **Big Data & Databases**: Apache Spark, MySQL, MySQL Workbench
 
