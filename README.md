@@ -14,7 +14,7 @@ My **Master's thesis** focused on **adversarial machine learning**, specifically
 - **Big Data & Databases**: Apache Spark, MySQL, MySQL Workbench
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/francesco-la-rosa-474035356/)  
+💼 [LinkedIn](https://www.linkedin.com/in/francesco-la-rosa-it/)  
 📧 francescolarosa.it@gmail.com  
 
 🚀 Always looking for new challenges and learning opportunities! Feel free to reach out.
